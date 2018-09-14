@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9b212b-d90c-40e4-8f5d-43949d1309e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_alibaba_fastjson_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__cz_mallat_uasparser_uasparser_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__net_sourceforge_jregex_jregex_1_2_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_common_tests_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_procedure_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_hbase_hbase_server_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_jamon_jamon_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/GP1706LogAnalystic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/Sdk/LogSdk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/Sdk/LogSdkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/common/EventLogsConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/etl/mr/tohbase/LogToHbaseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/etl/util/IpParserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/etl/util/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/etl/util/UserAgentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/java/com/qianfeng/etl/util/ip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/main/resources/qqwry.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/test/java/IpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/test/java/LogUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP1706LogAnalysticME/src/test/java/UserAgentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/LogDataAnalstic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/LogDataAnalstic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/anlystic/modle/dim/value/MapWritableValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/anlystic/modle/dim/value/MapWritableValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/anlystic/service/impl/IDimensionConvertImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/anlystic/service/impl/IDimensionConvertImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/etl/tohbase/ParseLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/etl/tohbase/ParseLogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/util/TimeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/java/com/qianfeng/util/TimeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/resources/core-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/resources/core-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/hive/en/en.hql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/hive/en/en.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/hive/od/od.hql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/hive/vd/vd.hql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/hive/vd/vd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/modle/dim/value/MapWritableValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/modle/dim/value/MapWritableValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/am/ActiveMemberRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/am/ActiveMemberRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/au/ActiveUserRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/au/ActiveUserRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/local/LocationRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/local/LocationRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/nm/NewMemberRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/nm/NewMemberRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/nu/NewUserRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/nu/NewUserRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/pv/PageViewRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/pv/PageViewRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/session/SessionRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/mr/session/SessionRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/cood/coordinator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/cood/job.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/cood/workflow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/mr/job.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/mr/lib/LogDataAnalstic-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/mr/workflow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/mr/workflow1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/sh/en.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/sh/job.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/sh/lib/LogDataAnalstic-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/sh/vd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/anlystic/oozie/sh/workflow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/etl/tohbase/ParseLogMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/etl/tohbase/ParseLogMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/etl/tohbase/ParseLogRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/etl/tohbase/ParseLogRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/util/TimeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/com/qianfeng/util/TimeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/core-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/core-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LogDataAnalystic/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/venv/Include/basisGrammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/venv/Include/basisGrammar.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="71966407">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitattributes" value="1" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="15" />
+          <entry key="md" value="7" />
+          <entry key="scala" value="41" />
+          <entry key="submit" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="15" />
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Scala" value="36" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="399" />
+          <entry key="md" value="28" />
+          <entry key="submit" value="7" />
+          <entry key="xml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="399" />
+          <entry key="Markdown" value="28" />
+          <entry key="XML" value="32" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/BasicOperation1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <element signature="e#16#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-299">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/TypedOperation3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/StructuredWC.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo4.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/baidu/day03/MobileLocation.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.1/spark-core_2.10-1.6.1-sources.jar!/org/apache/spark/SparkContext.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="833" column="3" lean-forward="true" selection-start-line="833" selection-start-column="3" selection-end-line="833" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/OtherFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Java-Guide-master/个人阅读书籍清单.md" />
+        <option value="$PROJECT_DIR$/../Java-Guide-master/计算机网络与数据通信/nothing.md" />
+        <option value="$PROJECT_DIR$/../Java-Guide-master/架构/分布式.md" />
+        <option value="$PROJECT_DIR$/src/main/submit/options/color.xml" />
+        <option value="$PROJECT_DIR$/src/main/submit/colors/submit" />
+        <option value="$PROJECT_DIR$/src/main/util/Match.java" />
+        <option value="$PROJECT_DIR$/src/main/util/ParamUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/util/SparkUtils.java" />
+        <option value="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/Basicgrammar/day02/Match.java" />
+        <option value="$PROJECT_DIR$/src/main/util/jdbc/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\mavenRepository" />
+        <option name="mavenHome" value="D:/java/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GP1706" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GP1706" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GP1706" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="167" />
+    <option name="y" value="182" />
+    <option name="width" value="1165" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Basicgrammar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP1706" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP1706" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535782818689" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2511542" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StringUtils">
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basicgrammar.day02.Match" />
+      <module name="GP1706" />
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringUtils" />
+      <module name="GP1706" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Match" />
+      <item itemvalue="Application.StringUtils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringUtils" />
+        <item itemvalue="Application.Match" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9b212b-d90c-40e4-8f5d-43949d1309e5" name="Default Changelist" comment="" />
+      <created>1534586546212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534586546212</updated>
+      <workItem from="1534586556471" duration="2772000" />
+      <workItem from="1534589740154" duration="1259000" />
+      <workItem from="1534591082004" duration="755000" />
+      <workItem from="1534591948429" duration="2008000" />
+      <workItem from="1535616312357" duration="8309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15103000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="167" y="182" width="1165" height="688" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2687783" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26022914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.35495496" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.18986385" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Gameversion1.0/com/baixinbk/cn/TimeUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/Day01/Demo.scala" />
+    <entry file="file://$PROJECT_DIR$/../Java-Guide-master/个人阅读书籍清单.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1387">
+            <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java-Guide-master/interview.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java-Guide-master/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Java-Guide-master/Guide.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/day06/MyActor.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/day06/ActorWordCount.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/Day01/VariableModifier.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/day03/FunctionDemo.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/day04/Person03.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/qianfeng/day04/Person04.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/submit/colors/submit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/submit/options/color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Gameversion1.0/com/baixinbk/cn/GameLogsAnalyze.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Gameversion1.0/com/baixinbk/cn/JedisConnectionPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/ValidUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/DDos.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/sortedUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/ParamUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/SparkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day03/AccountDemo08.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/day11/ealsticserach/ElasticSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day05/People.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day05/FunctionDemo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-974" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day02/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day05/CloseDemo1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/jdbc/JDBCHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+          <folding>
+            <element signature="e#0#6706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/ActionOperation1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day03/FunctionDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="169" column="17" lean-forward="true" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day06/ActorWordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Basicgrammar/day06/MyActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/stomwordcount/WordCountTopology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/stomwordcount/SplitBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/stomwordcount/RandomLoadDataSpout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/stomwordcount/AggrBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/BasicOperation1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#16#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/OtherFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/TypedOperation3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/StructuredWC.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/spark2/SparkSQLDemo2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/spark/baidu/day03/MobileLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.1/spark-core_2.10-1.6.1-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="833" column="3" lean-forward="true" selection-start-line="833" selection-start-column="3" selection-end-line="833" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>GP1706:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GP1706</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: xmlenc:xmlenc:0.52</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2511542" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
